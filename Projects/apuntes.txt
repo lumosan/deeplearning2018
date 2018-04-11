@@ -1,0 +1,12 @@
+# Project 2
+
+* Linear
+* ReLU
+* Tanh
+* Sequential
+* LossMSE
+----
+* Dropout
+* CrossEntropyLoss
+
+CrossEntropy -> loss del logistic regression
